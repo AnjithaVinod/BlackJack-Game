@@ -32,9 +32,7 @@ MEMBERS AND THEIR ACCOUNTS:
 2. Pranitha Muluguru(112201004) : https://github.com/PranithaMuluguru 
 3. Anjitha Vinod (132201001) : https://github.com/AnjithaVinod
 
-LINKS TO THE FILES:
-1. https://github.com/MAUSUMIBHUYAN/Project/blob/main/design.py
-2. https://github.com/MAUSUMIBHUYAN/Project/blob/main/card_design.py
+
 
 
 
